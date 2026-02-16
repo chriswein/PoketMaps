@@ -17,4 +17,6 @@ impractical and unnessecary.
 
 ## Example
 
+Video link:
+
 [![Watch the video](https://github.com/chriswein/PoketMaps/blob/119522be39a0cdc322ed7bcf87e3359216c2f21f/thumbnail.jpg)](https://github.com/chriswein/PoketMaps/raw/refs/heads/main/map_preview.mp4)
