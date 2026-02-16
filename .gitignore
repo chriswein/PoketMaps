@@ -1,0 +1,38 @@
+# build output
+/client/dist
+
+# generated types
+/client/.astro
+
+# dependencies
+/client/node_modules
+
+# logs
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/pnpm-debug.log*
+
+# environment variables
+/client/.env
+/client/.env.production
+
+# macOS-specific files
+DS_Store
+
+# jetbrains setting folder
+/client/.idea/
+
+.vscode 
+
+#server 
+
+/server/public
+/server/pokemonmapsserver
+/server/images
+Session.vim
+client/public/favicon.ico
+client/public/favicon.svg
+client/src/assets/astro.svg
+client/src/assets/background.svg
+server/go.sum

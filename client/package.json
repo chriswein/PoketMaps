@@ -1,0 +1,15 @@
+{
+  "name": "client",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && npm run copy-dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "copy-dist": "npx shx cp -r dist/* ../server/public/"
+  },
+  "dependencies": {
+    "astro": "^5.17.1"
+  }
+}
